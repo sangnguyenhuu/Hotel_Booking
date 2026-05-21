@@ -22,7 +22,8 @@
     // sendgrip api key
 
     define('SENDGRID_API_KEY', "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");
-    define('SENDGRID_EMAIL', "sangnguyenhuudstore@gmail.com");
+//da f ema
+    define('SENDGRID_EMAIL', "sangnguyenhuudstore123456@gmail.com");
     define('SENDGRID_NAME', "NHS");
 
 
